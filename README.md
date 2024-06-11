@@ -1,1 +1,1 @@
-# social-med-a-lol
+# social lol
